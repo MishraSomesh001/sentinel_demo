@@ -1,6 +1,3 @@
-# sentinel_demo
+# sentinel_demo — VulnBench case `requests_many_cves`
 
-Minimal throwaway fixture repo for Dependency Sentinel's Phase 3 end-to-end
-test: one dependency pinned to a version with a known OSV CVE
-(`requests==2.25.0`), and a trivial pytest suite that passes both before and
-after the upgrade — so `test_runner` has something real to run.
+Single PyPI package with many known CVEs at one pinned version.
