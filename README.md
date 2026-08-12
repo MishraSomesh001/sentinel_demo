@@ -1,3 +1,3 @@
-# sentinel_demo — VulnBench case `flask_ancient`
+# sentinel_demo — VulnBench case `django_old_lts`
 
-Old PyPI package where the fix requires crossing major versions.
+Package with a very large number of known CVEs (56+ at last check).
