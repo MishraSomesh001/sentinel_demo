@@ -1,6 +1,7 @@
 import requests
-import flask
 
-def test_both_importable():
+def test_importable():
     assert requests.__version__
-    assert flask.__version__
+
+def test_has_get():
+    assert callable(requests.get)

@@ -1,3 +1,3 @@
-# sentinel_demo — VulnBench case `multi_package`
+# sentinel_demo — VulnBench case `requests_many_cves`
 
-Two independently-vulnerable packages in one manifest.
+Single PyPI package with many known CVEs at one pinned version.
