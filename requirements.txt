@@ -1,4 +1,4 @@
-requests==2.25.0
+requests==2.33.0
 flask==0.12
 Jinja2==2.11.3
 MarkupSafe==2.0.1
