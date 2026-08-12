@@ -1,3 +1,3 @@
-# sentinel_demo — VulnBench case `lodash_prototype_pollution`
+# sentinel_demo — VulnBench case `clean_no_vulns`
 
-npm ecosystem case — same shape, different package manager.
+False-positive check: a package pinned to a version with no known CVEs.
