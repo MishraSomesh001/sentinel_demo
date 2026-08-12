@@ -1,4 +1,6 @@
-import click
+import requests
+import flask
 
-def test_importable():
-    assert click.__version__ == '8.1.7'
+def test_both_importable():
+    assert requests.__version__
+    assert flask.__version__

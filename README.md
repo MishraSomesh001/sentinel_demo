@@ -1,3 +1,3 @@
-# sentinel_demo — VulnBench case `clean_no_vulns`
+# sentinel_demo — VulnBench case `multi_package`
 
-False-positive check: a package pinned to a version with no known CVEs.
+Two independently-vulnerable packages in one manifest.
