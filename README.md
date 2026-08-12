@@ -1,3 +1,3 @@
-# sentinel_demo — VulnBench case `django_old_lts`
+# sentinel_demo — VulnBench case `lodash_prototype_pollution`
 
-Package with a very large number of known CVEs (56+ at last check).
+npm ecosystem case — same shape, different package manager.
