@@ -1,3 +1,3 @@
-# sentinel_demo — VulnBench case `flask_ancient`
+# sentinel_demo — VulnBench case `requests_many_cves`
 
-Old PyPI package where the fix requires crossing major versions.
+Single PyPI package with many known CVEs at one pinned version.
